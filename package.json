@@ -1,0 +1,11 @@
+{
+  "name": "tdg",
+  "version": "0.0.1",
+  "description": "trabajo de grado",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Fernando J. Gómez M.",
+  "license": "ISC"
+}
